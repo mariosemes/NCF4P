@@ -6,6 +6,8 @@ The idea behind this script was to have the ability to scroll trough Movies and 
 
 The script is written in Python 3 and I didn't tested it with lower versions (maybe few minimum changes would make it work anyway). Everytime you trigger the script, it will ping TheMovieDB trough their API and get the most popular Movies and TV Shows right now. After getting the mentioned list of popular content, it will create Plex optimized folders and download its Trailer from YouTube with YouTube-DL. This way, you can create a separate Library on your Plex account that will only show Trailers.
 
+![example](https://github.com/mariosemes/NCF4P/blob/master/Images/example.jpg?raw=true)
+
 ## Requirements
 
 1. Python 3+
